@@ -19,7 +19,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 Users should be able to:
 
 - See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
+- See a live countdown timer that ticks down every second (start the count at 30 days)
 
 ### Screenshot
 
