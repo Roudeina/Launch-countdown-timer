@@ -28,10 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Roudeina/Launch-countdown-timer)
-- Live Site URL: [Add live site URL here](https://roudeina.github.io/Launch-countdown-timer/)
+- Solution URL: [github repo](https://github.com/Roudeina/Launch-countdown-timer)
+- Live Site URL: [live github page](https://roudeina.github.io/Launch-countdown-timer/)
 
-## My process
 
 ### Built with
 
