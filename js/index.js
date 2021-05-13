@@ -3,7 +3,7 @@ var hours = document.querySelector("#hours");
 var minutes = document.querySelector("#minutes");
 var seconds = document.querySelector("#seconds");
 
-var startCount = [ 30, 00, 00, 00 ];
+var startCount = [ 09, 00, 00, 00 ];
 
 setInterval(() => {
     startCount[3] -= 1;
